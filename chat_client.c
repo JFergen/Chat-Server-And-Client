@@ -1,6 +1,5 @@
 /*      
         Joseph Fergen
-        CSCE 3600.001
         11/17/2019
         Simple chat client
 */
